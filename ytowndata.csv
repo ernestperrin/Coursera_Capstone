@@ -1,36 +1,36 @@
-PostalCode,City,County
-44401,Berlin Center,Mahoning County
-44405,Campbell,Mahoning County
-44406,Canfield,Mahoning County
-44416,Ellsworth,Mahoning County
-44422,Greenford,Mahoning County
-44429,Lake Milton,Mahoning County
-44436,Lowellville,Mahoning County
-44442,New Middletown,Mahoning County
-44443,New Springfield,Mahoning County
-44449,North Benton,Mahoning County
-44451,North Jackson,Mahoning County
-44452,North Lima,Mahoning County
-44454,Petersburg,Mahoning County
-44471,Struthers,Mahoning County
-44501,Youngstown,Mahoning County
-44502,Youngstown,Mahoning County
-44503,Youngstown,Mahoning County
-44504,Youngstown,Mahoning County
-44505,Youngstown,Mahoning County
-44506,Youngstown,Mahoning County
-44507,Youngstown,Mahoning County
-44509,Youngstown,Mahoning County
-44510,Youngstown,Mahoning County
-44511,Youngstown,Mahoning County
-44512,Boardman,Mahoning County
-44512,Youngstown,Mahoning County
-44513,Boardman,Mahoning County
-44513,Youngstown,Mahoning County
-44514,Poland,Mahoning County
-44514,Youngstown,Mahoning County
-44515,Austintown,Mahoning County
-44515,Youngstown,Mahoning County
-44609,Beloit,Mahoning County
-44619,Damascus,Mahoning County
-44672,Sebring,Mahoning County
+PostalCode,City,County,Population
+44401,Berlin Center,Mahoning County,"2,892"
+44405,Campbell,Mahoning County,"8,229"
+44406,Canfield,Mahoning County,"22,054"
+44416,Ellsworth,Mahoning County,0
+44422,Greenford,Mahoning County,0
+44429,Lake Milton,Mahoning County,"2,576"
+44436,Lowellville,Mahoning County,"3,836"
+44442,New Middletown,Mahoning County,"4,006"
+44443,New Springfield,Mahoning County,"1,704"
+44449,North Benton,Mahoning County,"1,323"
+44451,North Jackson,Mahoning County,"3,032"
+44452,North Lima,Mahoning County,"3,167"
+44454,Petersburg,Mahoning County,"1,153"
+44471,Struthers,Mahoning County,"11,097"
+44501,Youngstown,Mahoning County,0
+44502,Youngstown,Mahoning County,"10,204"
+44503,Youngstown,Mahoning County,"1,021"
+44504,Youngstown,Mahoning County,"5,262"
+44505,Youngstown,Mahoning County,"19,357"
+44506,Youngstown,Mahoning County,"2,707"
+44507,Youngstown,Mahoning County,"5,863"
+44509,Youngstown,Mahoning County,"11,975"
+44510,Youngstown,Mahoning County,"2,499"
+44511,Youngstown,Mahoning County,"19,672"
+44512,Boardman,Mahoning County,"34,424"
+44512,Youngstown,Mahoning County,"34,424"
+44513,Boardman,Mahoning County,0
+44513,Youngstown,Mahoning County,0
+44514,Poland,Mahoning County,"22,472"
+44514,Youngstown,Mahoning County,"22,472"
+44515,Austintown,Mahoning County,"27,766"
+44515,Youngstown,Mahoning County,"27,766"
+44609,Beloit,Mahoning County,"3,987"
+44619,Damascus,Mahoning County,0
+44672,Sebring,Mahoning County,"4,874"
